@@ -13,5 +13,6 @@
 - Composite
 - Decorator
 - Visitor
+- ChainOfResponsibility
 
 reference https://www.hyuki.com/dp/
