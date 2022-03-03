@@ -14,5 +14,6 @@
 - Decorator
 - Visitor
 - ChainOfResponsibility
+- Facade
 
 reference https://www.hyuki.com/dp/
