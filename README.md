@@ -18,5 +18,6 @@
 - Mediator
 - Observer
 - Memento
+- State
 
 reference https://www.hyuki.com/dp/
