@@ -16,5 +16,6 @@
 - ChainOfResponsibility
 - Facade
 - Mediator
+- Observer
 
 reference https://www.hyuki.com/dp/
