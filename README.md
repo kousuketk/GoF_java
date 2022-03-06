@@ -17,5 +17,6 @@
 - Facade
 - Mediator
 - Observer
+- Memento
 
 reference https://www.hyuki.com/dp/
