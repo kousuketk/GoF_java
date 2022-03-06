@@ -15,5 +15,6 @@
 - Visitor
 - ChainOfResponsibility
 - Facade
+- Mediator
 
 reference https://www.hyuki.com/dp/
