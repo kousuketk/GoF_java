@@ -19,5 +19,6 @@
 - Observer
 - Memento
 - State
+- Flyweight
 
 reference https://www.hyuki.com/dp/
