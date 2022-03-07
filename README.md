@@ -21,5 +21,6 @@
 - State
 - Flyweight
 - Proxy
+- Command
 
 reference https://www.hyuki.com/dp/
