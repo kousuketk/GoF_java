@@ -20,5 +20,6 @@
 - Memento
 - State
 - Flyweight
+- Proxy
 
 reference https://www.hyuki.com/dp/
