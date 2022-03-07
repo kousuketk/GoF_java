@@ -22,5 +22,6 @@
 - Flyweight
 - Proxy
 - Command
+- Interpreter
 
 reference https://www.hyuki.com/dp/
